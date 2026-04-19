@@ -1,17 +1,34 @@
-# ombe
+# ombe_mobileapp
 
-A new Flutter project.
+Aplikasi mobile berbasis Flutter yang dikembangkan sebagai tugas kelompok.
 
-## Getting Started
+## Deskripsi
+Project ini bertujuan untuk membangun aplikasi mobile menggunakan Flutter dengan fitur-fitur utama seperti:
+- Tampilan halaman utama (Home)
+- Halaman produk / barang
+- Halaman checkout
+- Tracking pesanan
 
-This project is a starting point for a Flutter application.
+## Anggota Tim
+- Developer 1
+- Developer 2
+- Developer 3
+- Developer 4
 
-A few resources to get you started if this is your first Flutter project:
+## Teknologi
+- Flutter
+- Dart
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## Cara Menjalankan Project
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1. Clone repository:
+   git clone https://github.com/fawwaz79/ombe_mobileapp.git
+
+2. Masuk ke folder project:
+   cd ombe_mobileapp
+
+3. Install dependencies:
+   flutter pub get
+
+4. Jalankan aplikasi:
+   flutter run
